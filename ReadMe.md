@@ -10,10 +10,10 @@
 ### Chaos to Balance
 When a forest was first established, tigers, bears and other animals must not know where its prey is, so they only ran around to find food. The whole forest looked very chaotic. After a while, when these animals knew where its prey's habitat[ˈhæbɪtæt] are, they will do linear motion and go directly to their food. The whole forest will be very orderly. This is the reason for chaos to balance.
 
-## My Viewpoint of Cognition and boundary [2018]
+### My Viewpoint of Cognition and boundary [2018]
 ![Cognition and boundary](https://github.com/borllor/Works/blob/master/Thought/%E8%AE%A4%E7%9F%A5%E4%B8%8E%E8%BE%B9%E7%95%8C.png?raw=true, "Cognition and boundary")
 
-## My Opinion of Relationship among Colleagues [2015]
+### My Opinion of Relationship among Colleagues [2015]
 ![Opinion of Relationship among Colleagues](https://github.com/borllor/Works/blob/master/Thought/%E5%B7%A5%E4%BD%9C%E5%85%B3%E7%B3%BB.png?raw=true, "Opinion of Relationship among Colleagues")
 
 ## Director
