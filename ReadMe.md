@@ -8,7 +8,15 @@
 
 ## Thought
 ### Chaos to Balance
-When a forest was first established, tigers, bears and other animals must not know where its prey is, so they only ran around to find food. The whole forest looked very chaotic. After a while, when these animals knew where its prey's habitat[ˈhæbɪtæt] are, they will do linear motion and go directly to their food. The whole forest will be very orderly. This is the reason for chaos to balance.
+We can imagine that a forest was first established, All animals in the forest such as tigers, bears and other animals must not know where its prey is, so they only ran around in the forest to find food. The whole forest looked very disorderly at that time. After a while, when these animals knew where its prey's habitat is, they will go directly to their food next time. The whole forest will become orderly. This is the reason for chaos to balance.
+
+### Curse of knowledge
+The term “Curse of knowledge” is cognitive bias that occurs an individual who is communicating with another individuals unknowingly assumes that the others have the background to understand. This curse always happened at me. Such as I am occasionally angry with my daughter who didn’t do a thing properly. When my wife was studying driving, her action of controlling car always make me crazy. Why can’t you steer your wheel well. Because I can not put myself into her position.
+
+### System 1 And System 2(from the book Thinking Fast And Slow by Daniel Kahneman)
+It has two concepts about System 1 and System 2.
+Such as computing 25 multiply 45, The result is I don’t know, I need more time to calculate in paper or my mind because I need to use my System 2 to handle it. But the computer can calculate in a flash. However, When we meet a situation like 1 plus 1, I can give the answer directly and I do much faster than a computer. This is because I used my System 1. The system 1 is just like something in my subconscious that make me reflect actions and feelings without any thinking. 
+Ten thousand hours principle is based on these concepts. It means that you want to be an expert in some area such as Playing piano, you should practice more and more to make your action from System2 to System1 and let the actions going into your subconscious. 
 
 ### My Viewpoint of Cognition and boundary [2018]
 ![Cognition and boundary](https://github.com/borllor/Works/blob/master/Thought/%E8%AE%A4%E7%9F%A5%E4%B8%8E%E8%BE%B9%E7%95%8C.png?raw=true, "Cognition and boundary")
