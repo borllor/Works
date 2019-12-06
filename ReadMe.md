@@ -19,7 +19,7 @@ Such as computing 25 multiply 45, The result is I don’t know, I need more time
 Ten thousand hours principle is based on these concepts. It means that you want to be an expert in some area such as Playing piano, you should practice more and more to make your action from System2 to System1 and let the actions going into your subconscious. 
 
 ### My Viewpoint of Cognition and boundary [2018]
-![Cognition and boundary](https://raw.githubusercontent.com/borllor/Works/master/Thought/Cognition%20%26%20Boundary.png, "Cognition and boundary")
+![Cognition and boundary](https://github.com/borllor/Works/blob/master/Thought/Cognition%20%26%20Boundary.png?raw=true, "Cognition and boundary")
 
 ### My Opinion of Relationship among Colleagues [2015]
 ![Opinion of Relationship among Colleagues](https://github.com/borllor/Works/blob/master/Thought/%E5%B7%A5%E4%BD%9C%E5%85%B3%E7%B3%BB.png?raw=true, "Opinion of Relationship among Colleagues")
